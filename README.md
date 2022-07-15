@@ -6,9 +6,7 @@ Attendance Marking and Grading [AMG] system is a software which assists lectures
 * Existing Students.
 * Existing Lectures.
 * Time Table of all classes. 
-* Individual Student's attendance.
-* Individual Student's marks.
-* Individual Student's reports.
+* Individual Student's attendance, marks and reports.
 * Student end read only interface.
 
 <b>_Built using:_</b>
@@ -16,7 +14,7 @@ Attendance Marking and Grading [AMG] system is a software which assists lectures
 * SCSS (Sassy Cascading Style Sheets).
 * HTML CSS and JavaScript.
 * Bootstrap Templates.
-* SQL Database
+* SQL Database.
 
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
   * Install django in your Device by using command pip install django.
