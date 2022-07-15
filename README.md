@@ -14,13 +14,13 @@ Attendance Marking and Grading [AMG] system is a software which assists lectures
 <b>_Built using:_</b>
 * Django Python.
 * SCSS (Sassy Cascading Style Sheets).
-* 
-* Algolia API -> [Know More](https://www.algolia.com/doc/rest-api/search/)
-* Pagination -> [Know More](https://mui.com/material-ui/react-pagination/)
+* HTML CSS and JavaScript.
+* Bootstrap Templates.
+* SQL Database
 
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
-  * Install React in your Device.
+  * Install django in your Device by using command pip install django.
   * Download the zip file of the project and extract.
-  * Open in vs-code or other editor and choose the extracted file.
-  * Run <b>npm install</b> in terminal (node modules will get installed).
-  * Run <b>npm start</b> in terminal.
+  * Open in py-charm or other editor and choose the extracted file and choose AMG_Master folder.
+  * Run <b>python manage.py runserver</b> in terminal (node modules will get installed).
+  * Then go to the browser and enter the url **http://127.0.0.1:8000/**
