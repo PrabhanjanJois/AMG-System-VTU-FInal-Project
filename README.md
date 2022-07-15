@@ -17,7 +17,7 @@ Attendance Marking and Grading [AMG] system is a software which assists lectures
 * SQL Database.
 
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
-  * Install django in your Device by using command pip install django.
+  * Install django in your Device by using command<b> pip install django</b>.
   * Download the zip file of the project and extract.
   * Open in py-charm or other editor and choose the extracted file and choose AMG_Master folder.
   * Run <b>python manage.py runserver</b> in terminal (node modules will get installed).
