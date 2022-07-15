@@ -1,12 +1,15 @@
 # AMG-System-VTU-Final-Year-Project
 Attendance Marking and Grading [AMG] system is a software which assists lectures and staff to manage the students data like their attendance, marks and their grades for their respective semesters. This application is applicable for the VTU affiliated users. 
 
-<b>_This News app Displays Info_</b>
-* Title.
-* Url.
-* Created At. 
-* Author.
-* Page Numbers At bottom.
+<b>_This AMG System Displays Info_</b>
+* Admin Panel.
+* Existing Students.
+* Existing Lectures.
+* Time Table of all classes. 
+* Individual Student's attendance.
+* Individual Student's marks.
+* Individual Student's reports.
+* Student end read only interface.
 
 <b>_Built using:_</b>
 * Nextjs(React)
