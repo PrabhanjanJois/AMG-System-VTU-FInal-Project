@@ -27,20 +27,25 @@ Some of the **Snap Shots** of the application are shared below
 
 Pic 1:
 * *Displaying Tool Bar*
+/
 ![WhatsApp Image 2022-07-15 at 8 05 06 PM (2)](https://user-images.githubusercontent.com/72604642/179249120-f23c9830-35b5-4261-a285-5e39a9df6c17.jpeg)
 
 Pic 2 :
 * *Displaying Color Theme menu*
+/
 ![WhatsApp Image 2022-07-15 at 8 05 07 PM](https://user-images.githubusercontent.com/72604642/179249166-aabb1234-66c7-44ba-9cb1-b42126226d77.jpeg)
 
 Pic 3 :
 * *Displaying Color Theme menu*
+/
 ![WhatsApp Image 2022-07-15 at 8 05 06 PM (1)](https://user-images.githubusercontent.com/72604642/179249198-1f5bb9a2-92d1-46fa-bf96-885f96d6ad3a.jpeg)
 
 Pic 4 :
 * *Displaying Color Theme menu*
+/
 ![WhatsApp Image 2022-07-15 at 8 05 06 PM](https://user-images.githubusercontent.com/72604642/179249218-19dbed8c-aa80-4bae-976a-0ddfff65ec38.jpeg)
 
 Pic 5 :
 * *Displaying Color Theme menu*
+/
 ![WhatsApp Image 2022-07-15 at 8 05 05 PM](https://user-images.githubusercontent.com/72604642/179249235-0b658c75-ab61-4e9f-bbce-fc6c6d567536.jpeg)
